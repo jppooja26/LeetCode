@@ -12,6 +12,9 @@ The worksheet consists of a comprehensive collection of coding problems covering
         3. Remove duplicates from sorted array 
         4. Remove duplicates from sorted array 2
         5. Majority element
+        6. Rotate Array
+        7. Best time to buy and sell stock
+        8. Best time to buy and sell stock II
 </pre>
 The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from leetcode
 
